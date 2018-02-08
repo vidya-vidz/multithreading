@@ -1,15 +1,5 @@
 login as: veswarap
-veswarap@disci.hpcc.ttu.edu's password:
-Last login: Mon Feb 27 22:29:58 2017 from 129.118.248.54
-Use of Texas Tech computers and networks requires prior authorization.
-Your use of these systems may be monitored by automated and/or manual
-security testing procedures. Unauthorized use of these systems is
-prohibited and abuse is subject to immediate termination of the account
-or service and University disciplinary procedure and/or criminal
-prosecution.
-
-If you have questions concerning this notification screen, please
-contact IT Help Central at 742-HELP (4357).
+output file:
 
 disci:$ ls
 main.c  main.out  makefile
