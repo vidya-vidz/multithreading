@@ -1,0 +1,170 @@
+login as: veswarap
+veswarap@disci.hpcc.ttu.edu's password:
+Last login: Mon Feb 27 22:29:58 2017 from 129.118.248.54
+Use of Texas Tech computers and networks requires prior authorization.
+Your use of these systems may be monitored by automated and/or manual
+security testing procedures. Unauthorized use of these systems is
+prohibited and abuse is subject to immediate termination of the account
+or service and University disciplinary procedure and/or criminal
+prosecution.
+
+If you have questions concerning this notification screen, please
+contact IT Help Central at 742-HELP (4357).
+
+disci:$ ls
+main.c  main.out  makefile
+disci:$ make
+gcc -pthread -o main.out main.c
+main.c: In function 'main':
+main.c:99: warning: cast to pointer from integer of different size
+main.c:101: warning: cast to pointer from integer of different size
+./main.out
+Enter no of producers
+1
+Enter no of consumers
+1
+producer 0 produced 0 item
+producer 0 produced 1 item
+producer 0 produced 2 item
+producer 0 produced 3 item
+consumer 0 consumed 0 item
+consumer 0 consumed 1 item
+consumer 0 consumed 2 item
+consumer 0 consumed 3 item
+consumer 0 consumed 4 item
+Buffer Is Empty
+producer 0 produced 4 item
+producer 0 produced 5 item
+producer 0 produced 6 item
+producer 0 produced 7 item
+producer 0 produced 8 item
+producer 0 produced 9 item
+producer 0 produced 10 item
+producer 0 produced 11 item
+Buffer Is Full
+consumer 0 consumed 5 item
+consumer 0 consumed 6 item
+consumer 0 consumed 7 item
+consumer 0 consumed 8 item
+consumer 0 consumed 9 item
+consumer 0 consumed 10 item
+consumer 0 consumed 11 item
+Buffer Is Empty
+producer 0 produced 12 item
+producer 0 produced 13 item
+producer 0 produced 14 item
+producer 0 produced 15 item
+producer 0 produced 16 item
+producer 0 produced 17 item
+producer 0 produced 18 item
+Buffer Is Full
+consumer 0 consumed 12 item
+consumer 0 consumed 13 item
+consumer 0 consumed 14 item
+consumer 0 consumed 15 item
+consumer 0 consumed 16 item
+consumer 0 consumed 17 item
+consumer 0 consumed 18 item
+Buffer Is Empty
+producer 0 produced 19 item
+producer 0 produced 20 item
+producer 0 produced 21 item
+producer 0 produced 22 item
+producer 0 produced 23 item
+producer 0 produced 24 item
+producer 0 produced 25 item
+Buffer Is Full
+consumer 0 consumed 19 item
+consumer 0 consumed 20 item
+consumer 0 consumed 21 item
+consumer 0 consumed 22 item
+consumer 0 consumed 23 item
+consumer 0 consumed 24 item
+consumer 0 consumed 25 item
+Buffer Is Empty
+producer 0 produced 26 item
+producer 0 produced 27 item
+producer 0 produced 28 item
+producer 0 produced 29 item
+producer 0 produced 30 item
+producer 0 produced 31 item
+producer 0 produced 32 item
+Buffer Is Full
+consumer 0 consumed 26 item
+consumer 0 consumed 27 item
+consumer 0 consumed 28 item
+consumer 0 consumed 29 item
+consumer 0 consumed 30 item
+consumer 0 consumed 31 item
+consumer 0 consumed 32 item
+Buffer Is Empty
+producer 0 produced 33 item
+producer 0 produced 34 item
+producer 0 produced 35 item
+producer 0 produced 36 item
+producer 0 produced 37 item
+producer 0 produced 38 item
+producer 0 produced 39 item
+Buffer Is Full
+consumer 0 consumed 33 item
+consumer 0 consumed 34 item
+consumer 0 consumed 35 item
+consumer 0 consumed 36 item
+consumer 0 consumed 37 item
+consumer 0 consumed 38 item
+consumer 0 consumed 39 item
+Buffer Is Empty
+producer 0 produced 40 item
+producer 0 produced 41 item
+producer 0 produced 42 item
+producer 0 produced 43 item
+producer 0 produced 44 item
+producer 0 produced 45 item
+producer 0 produced 46 item
+Buffer Is Full
+consumer 0 consumed 40 item
+consumer 0 consumed 41 item
+consumer 0 consumed 42 item
+consumer 0 consumed 43 item
+consumer 0 consumed 44 item
+consumer 0 consumed 45 item
+consumer 0 consumed 46 item
+Buffer Is Empty
+producer 0 produced 47 item
+producer 0 produced 48 item
+producer 0 produced 49 item
+producer 0 produced 50 item
+producer 0 produced 51 item
+producer 0 produced 52 item
+producer 0 produced 53 item
+Buffer Is Full
+consumer 0 consumed 47 item
+consumer 0 consumed 48 item
+consumer 0 consumed 49 item
+consumer 0 consumed 50 item
+consumer 0 consumed 51 item
+consumer 0 consumed 52 item
+consumer 0 consumed 53 item
+Buffer Is Empty
+producer 0 produced 54 item
+producer 0 produced 55 item
+producer 0 produced 56 item
+producer 0 produced 57 item
+producer 0 produced 58 item
+producer 0 produced 59 item
+producer 0 produced 60 item
+Buffer Is Full
+consumer 0 consumed 54 item
+consumer 0 consumed 55 item
+consumer 0 consumed 56 item
+consumer 0 consumed 57 item
+consumer 0 consumed 58 item
+consumer 0 consumed 59 item
+consumer 0 consumed 60 item
+Buffer Is Empty
+producer 0 produced 61 item
+producer 0 produced 62 item
+producer 0 produced 63 item
+consumer 0 consumed 61 item
+consumer 0 consumed 62 item
+consumer 0 consumed 63 item

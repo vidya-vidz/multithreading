@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1488211959 source:c:\programming\aa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+	<windows.h>
+
